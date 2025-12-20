@@ -2,6 +2,7 @@
 
 Gameplay Video Link : https://drive.google.com/file/d/1M3LL3pQUqLSKxJAUdhVnwiAwfY5yKkGj/view?usp=drive_link
 
+------------------------------------------------------------ TR ------------------------------------------------------------
 - Mobil için birinci şahıs nişancı (FPS) oynanış
 - Dokunmatik tabanlı nişan alma ve ateş etme sistemi
 - Silah ateşleme ve yeniden doldurma (reload) mekanikleri
@@ -20,7 +21,7 @@ Gameplay Video Link : https://drive.google.com/file/d/1M3LL3pQUqLSKxJAUdhVnwiAwf
 - Temel kullanıcı arayüzü (can barı, mermi sayacı)
 - Temel FPS mekaniklerini sergileyen oynanış odaklı bir prototip
 
-
+------------------------------------------------------------ EN ------------------------------------------------------------
 - Mobile first person shooter (FPS) gameplay
 - Touch based aiming and shooting system
 - Weapon firing and reload mechanics
