@@ -38,5 +38,4 @@ Gameplay Video Link : https://drive.google.com/file/d/1M3LL3pQUqLSKxJAUdhVnwiAwf
 - Data saving system (player progress, ammo count, upgrades, etc.)
 - Mobile optimized controls and performance
 - Basic user interface (health bar, ammo counter)
-
-Gameplay-focused prototype showcasing core FPS mechanics
+- Gameplay focused prototype showcasing core FPS mechanics
