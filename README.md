@@ -1,6 +1,6 @@
 # Unity-Mobile-3D-FirstPersonShooter-Game
 
-Gameplay Video Link : https://drive.google.com/file/d/1M3LL3pQUqLSKxJAUdhVnwiAwfY5yKkGj/view?usp=drive_link
+Gameplay Video Link : https://www.youtube.com/watch?v=gbobXGkZBas&list=PLeUQ9Opn9i7PpZXLhEPG_rDb0LjjYapMA&index=2
 
 ------------------------------------------------------------ TR ------------------------------------------------------------
 - Mobil için birinci şahıs nişancı (FPS) oynanış
