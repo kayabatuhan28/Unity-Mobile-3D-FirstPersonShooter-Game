@@ -20,7 +20,7 @@ Gameplay Video Link : https://www.youtube.com/watch?v=gbobXGkZBas&list=PLeUQ9Opn
 - Mobil için optimize edilmiş kontroller ve performans
 - Temel kullanıcı arayüzü (can barı, mermi sayacı)
 - Temel FPS mekaniklerini sergileyen oynanış odaklı bir prototip
-
+ 
 ------------------------------------------------------------ EN ------------------------------------------------------------
 - Mobile first person shooter (FPS) gameplay
 - Touch based aiming and shooting system
